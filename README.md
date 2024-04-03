@@ -1,1 +1,1 @@
-Simple program to demonstrate RAG-based OpenAI LLM in Langchain
+RAG-based OpenAI GPT powered Product Navigator in a Store
