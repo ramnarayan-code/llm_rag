@@ -18,3 +18,6 @@ Instead of relying on vector similarity search, it transforms documents into a *
 | **Traceability** | Often a "black box"; hard to explain why specific chunks matched. | **Interpretable & Traceable.** Retrieval logic is clear and reasoned. |
 | **Infrastructure** | Requires managing a vector database and index pipeline. | **Zero infra.** Direct API-driven insight without the overhead. |
 | **Context Awareness** | Often loses document structure and hierarchy. | **Full Context.** Understands the document's original structure. |
+
+### Example
+<img width="681" height="563" alt="image" src="https://github.com/user-attachments/assets/64af35cd-1435-45a8-84cb-da33b7e6c566" />
