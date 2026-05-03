@@ -20,4 +20,9 @@ Instead of relying on vector similarity search, it transforms documents into a *
 | **Context Awareness** | Often loses document structure and hierarchy. | **Full Context.** Understands the document's original structure. |
 
 ### Example
+<img width="1615" height="748" alt="Screenshot 2026-05-03 102326" src="https://github.com/user-attachments/assets/145aaae3-b079-49c2-bf73-a66f3944e495" />
+
+<img width="1420" height="748" alt="image" src="https://github.com/user-attachments/assets/3249cd5d-c02b-438c-ba26-a960f3141cbd" />
+
+
 <img width="681" height="563" alt="image" src="https://github.com/user-attachments/assets/64af35cd-1435-45a8-84cb-da33b7e6c566" />
