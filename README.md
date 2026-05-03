@@ -31,4 +31,4 @@ Instead of relying on vector similarity search, it transforms documents into a *
 
 
 
-<img width="681" height="563" alt="image" src="https://github.com/user-attachments/assets/64af35cd-1435-45a8-84cb-da33b7e6c566" />
+<img width="1495" height="774" alt="image" src="https://github.com/user-attachments/assets/645669da-95cd-4be4-9c8a-4f39e6316560" />
