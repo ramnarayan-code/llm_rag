@@ -20,6 +20,10 @@ Instead of relying on vector similarity search, it transforms documents into a *
 | **Context Awareness** | Often loses document structure and hierarchy. | **Full Context.** Understands the document's original structure. |
 
 ### Example
+## Uploaded EU AI Act PDF in the PageIndex Platform
+<img width="1905" height="935" alt="image" src="https://github.com/user-attachments/assets/7fb4eca2-cf80-4287-abb3-58b37e6477cd" /> <br/>
+
+## Example queries
 <img width="1615" height="748" alt="Screenshot 2026-05-03 102326" src="https://github.com/user-attachments/assets/145aaae3-b079-49c2-bf73-a66f3944e495" /> <br/>
 
 
